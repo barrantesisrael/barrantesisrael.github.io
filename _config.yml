@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Israel Barrantes"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Junior Research Group head"
   location         : "Rostock, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=barrantes+i[au]"
+  pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=barrantes+i[au]"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "barrantesisrael"
   google_plus      :
   keybase          :
   instagram        :
@@ -181,11 +181,11 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
+  research:
+    output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
+  people:
+    output: true
     permalink: /:collection/:path/
 
 
@@ -227,23 +227,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
+      author_profile: false
+      share: false
+      comment: false
+  # _people
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
