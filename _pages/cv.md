@@ -9,51 +9,92 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Dr. Israel Barrantes (Walter Israel Barrantes Bustinza)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Junior Research Group Leader**  
+Institute of Biostatistics and Informatics in Medicine and Ageing Research  
+Universitätsmedizin Rostock  
+Rostock, Germany
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Current Position
+
+**Junior Research Group Leader** (Current)  
+Institute of Biostatistics and Informatics in Medicine and Ageing Research  
+University Medical Center Rostock  
+Rostock, Germany
+
+---
+
+## Education
+
+**Dr. rer. nat. (Doctor of Natural Sciences)**  
+University of Rostock, Germany
+
+---
+
+## Research Interests
+
+* Translational Bioinformatics
+* Biostatistics and Statistical Methodology
+* Medical Informatics and Clinical Data Analysis
+* High-throughput Genomic and Molecular Data Analysis
+* Computational Biology
+* Epidemiology and Public Health Research
+
+---
+
+## Teaching Experience
+
+### Current Courses (Winter Semester 2025/26)
+
+**Universitätsmedizin Rostock**
+
+* Moderne und molekulare Hochdurchsatztechnologien in der medizinischen Grundlagenforschung (Seminar & Praktikum)
+* QB1: Epidemiologie, Med. Biometrie u. Med. Informatik (Vorlesung, Seminar & Übung)
+* Klinische Anwendungen - Methoden der Funktionserfassung - BA MIT (Vorlesung)
+
+---
+
+## Publications
+
+For my complete and up-to-date publication list, please visit:
+* [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ&view_op=list_works&sortby=pubdate)
+* [ORCID: 0000-0002-5252-4485](https://orcid.org/0000-0002-5252-4485)
+
+---
+
+## Skills
+
+### Statistical & Computational
+* Biostatistics and statistical modeling
+* High-throughput data analysis (genomics, transcriptomics, proteomics)
+* Machine learning and data mining
+* Clinical trial design and analysis
+
+### Programming & Tools
+* R programming and Bioconductor
+* Statistical computing
+* Data visualization
+* Reproducible research workflows
+
+### Medical & Biological
+* Epidemiology
+* Medical informatics
+* Clinical research methodology
+* Genomic data interpretation
+
+---
+
+## Contact Information
+
+**Email:** walterisrael.barrantesbustinza@med.uni-rostock.de  
+**ORCID:** [0000-0002-5252-4485](https://orcid.org/0000-0002-5252-4485)  
+**Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ)  
+**GitHub:** [barrantesisrael](https://github.com/barrantesisrael)  
+**Twitter:** [@Limenian](https://twitter.com/Limenian)
+
+---
+
+*Last updated: February 2026*
