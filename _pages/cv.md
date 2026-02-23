@@ -92,8 +92,7 @@ For my complete and up-to-date publication list, please visit:
 **Email:** israel.barrantes{bei}uni-rostock.de  
 **ORCID:** [0000-0002-5252-4485](https://orcid.org/0000-0002-5252-4485)  
 **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ)  
-**GitHub:** [barrantesisrael](https://github.com/barrantesisrael)  
-**Twitter:** [@Limenian](https://twitter.com/Limenian)
+**GitHub:** [barrantesisrael](https://github.com/barrantesisrael)
 
 ---
 
