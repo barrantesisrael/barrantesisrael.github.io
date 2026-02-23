@@ -45,23 +45,21 @@ University of Rostock
 ### Current Members
 
 **Dr. Israel Barrantes** - Research Group Leader  
-*Research focus:* Translational bioinformatics, biostatistics, high-throughput data analysis  
+*Research focus:* Aging, infection research, genomic, microbiomes, drug repositioning, artificial intelligence
 Email: israel.barrantes{bei}uni-rostock.de
 
 **Franziska Meiners**  
-*Research focus:* [Add research focus]  
+*Research focus:* Aging, interventions, microbiomes, drug repositioning, reprogramming
 Email: franziska.meiners{bei}uni-rostock.de
 
 **Asiri Soledad Ortega Matienzo**  
-*Research focus:* [Add research focus]  
+*Research focus:* Aging, interventions, microbiomes, meta-analysis, artificial intelligence
 Email: asiri.matienzo{bei}uni-rostock.de
 
 ### Alumni
 
-<!-- Add your alumni here:
-**Name** - Former Position (Year-Year)  
-*Current position:* Where they are now
--->
+**Salem Sueto**  
+Scotland Rural College (SRUC) 
 
 ---
 
