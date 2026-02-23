@@ -14,11 +14,9 @@ My research focuses on translational bioinformatics, applying computational and 
 
 ## Research Interests
 
-* Biostatistics and statistical methodology
-* Medical informatics and clinical data analysis
-* High-throughput genomic and molecular data analysis
-* Epidemiology and public health research
-* Computational biology and bioinformatics
+* High-throughput omic molecular data analysis
+* Microbial genomics and bioinformatics
+* Computational drug repositioning
 
 ## Current Position
 
@@ -30,7 +28,7 @@ Rostock, Germany
 ## Education & Qualifications
 
 **Dr. rer. nat. (Doctor of Natural Sciences)**  
-University of Rostock
+University of Magdeburg & International Max Planck Research School
 
 ## Contact
 
@@ -45,15 +43,15 @@ University of Rostock
 ### Current Members
 
 **Dr. Israel Barrantes** - Research Group Leader  
-*Research focus:* Aging, infection research, genomic, microbiomes, drug repositioning, artificial intelligence
+*Research focus:* Aging, infection research, genomic, microbiomes, drug repositioning, artificial intelligence<br>
 Email: israel.barrantes{bei}uni-rostock.de
 
 **Franziska Meiners**  
-*Research focus:* Aging, interventions, microbiomes, drug repositioning, reprogramming
+*Research focus:* Aging, interventions, microbiomes, drug repositioning, reprogramming<br>
 Email: franziska.meiners{bei}uni-rostock.de
 
 **Asiri Soledad Ortega Matienzo**  
-*Research focus:* Aging, interventions, microbiomes, meta-analysis, artificial intelligence
+*Research focus:* Aging, interventions, microbiomes, meta-analysis, artificial intelligence<br>
 Email: asiri.matienzo{bei}uni-rostock.de
 
 ### Alumni
