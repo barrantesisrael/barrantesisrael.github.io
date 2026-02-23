@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I teach courses in biostatistics, medical informatics, and epidemiology at the University Medical Center Rostock. My teaching focuses on quantitative methods for medical research and modern high-throughput technologies in biomedical sciences.
+I teach courses related to Bioinformatics and Medical Informatics at the University of Rostock. My teaching focuses on quantitative methods for medical research and modern high-throughput technologies in biomedical sciences.
 
 ## Courses
 
