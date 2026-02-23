@@ -89,7 +89,7 @@ For my complete and up-to-date publication list, please visit:
 
 ## Contact Information
 
-**Email:** walterisrael.barrantesbustinza@med.uni-rostock.de  
+**Email:** israel.barrantes{bei}uni-rostock.de  
 **ORCID:** [0000-0002-5252-4485](https://orcid.org/0000-0002-5252-4485)  
 **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ)  
 **GitHub:** [barrantesisrael](https://github.com/barrantesisrael)  

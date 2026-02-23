@@ -34,7 +34,7 @@ University of Rostock
 
 ## Contact
 
-**Email:** [walterisrael.barrantesbustinza@med.uni-rostock.de](mailto:walterisrael.barrantesbustinza@med.uni-rostock.de)  
+**Email:** israel.barrantes{bei}uni-rostock.de  
 **ORCID:** [0000-0002-5252-4485](https://orcid.org/0000-0002-5252-4485)  
 **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ)
 
@@ -44,14 +44,17 @@ University of Rostock
 
 ### Current Members
 
-**Dr. Israel Barrantes** - Junior Research Group Leader  
-*Research focus:* Translational bioinformatics, biostatistics, high-throughput data analysis
+**Dr. Israel Barrantes** - Research Group Leader  
+*Research focus:* Translational bioinformatics, biostatistics, high-throughput data analysis  
+Email: israel.barrantes{bei}uni-rostock.de
 
-<!-- Add your current team members here:
-**Name** - Position  
-*Research focus:* Brief description
-Email: email@address.de
--->
+**Franziska Meiners**  
+*Research focus:* [Add research focus]  
+Email: franziska.meiners{bei}uni-rostock.de
+
+**Asiri Soledad Ortega Matienzo**  
+*Research focus:* [Add research focus]  
+Email: asiri.matienzo{bei}uni-rostock.de
 
 ### Alumni
 

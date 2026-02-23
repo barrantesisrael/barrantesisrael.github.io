@@ -38,4 +38,4 @@ My research focuses on:
 
 ---
 
-*Note: If you're interested in collaboration or have questions about any of my publications, please feel free to [contact me](mailto:walterisrael.barrantesbustinza@med.uni-rostock.de).*
+*Note: If you're interested in collaboration or have questions about any of my publications, please feel free to contact me at israel.barrantes{bei}uni-rostock.de*
