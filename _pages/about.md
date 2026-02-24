@@ -58,10 +58,9 @@ Scotland Rural College (SRUC)
 
 ## Location
 
-Institute of Biostatistics and Informatics in Medicine and Ageing Research  
-Universitätsmedizin Rostock
-Ernst-Heydemann-Str. 8
-18057 Rostock
+Institute of Biostatistics and Informatics in Medicine and Ageing Research<br>  
+Universitätsmedizin Rostock<br>
+Ernst-Heydemann-Str. 8, 18057 Rostock<br>
 Germany
 
 ---
