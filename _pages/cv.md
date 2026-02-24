@@ -83,8 +83,6 @@ Rostock, Germany
 
 -->
 
----
-
 ## Contact Information
 
 **Email:** israel.barrantes{bei}uni-rostock.de  
