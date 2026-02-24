@@ -52,9 +52,9 @@ analytics:
 author:
   name             : "Israel Barrantes"
   avatar           : "BarrantesIsrael20251128BW.jpeg"
-  bio              : "Junior Research Group Leader at the Institute of Biostatistics and Informatics in Medicine and Ageing Research, University Medical Center Rostock"
+  bio              : "Institut für Biostatistik und Informatik in Medizin und Alternsforschung, Universitätsmedizin Rostock"
   location         : "Rostock, Germany"
-  employer         : "Universitätsmedizin Rostock"
+#  employer         : "Universitätsmedizin Rostock"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ"
   email            : "israel.barrantes{at}uni-rostock.de"
