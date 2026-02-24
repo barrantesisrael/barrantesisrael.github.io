@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Dr. Israel Barrantes (Walter Israel Barrantes Bustinza)
+## Israel Barrantes
 
 **Head of Research Group Translational Bioinformatics**  
 Institute of Biostatistics and Informatics in Medicine and Ageing Research  
@@ -27,11 +27,12 @@ Rostock, Germany
 
 ---
 
-## Education & Academic Background
+## Education 
 
 **Dr. rer. nat. (Doctor of Natural Sciences)**  
-University of Rostock, Germany
+University of Magdeburg & International Max Planck Research School 
 
+<!--
 **Ph.D. Research (2011-2014)**  
 Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg  
 Otto von Guericke University (OvGU), Magdeburg  
@@ -43,34 +44,33 @@ Systems Engineering and Biochemistry
 
 **Bachelor's Degree**  
 Biology
-
+-->
 ---
 
 ## Professional Experience
 
-**Staff Scientist and Team Leader** (2020-present)  
+**Staff Scientist, Lecturer and Team Leader** (2020-present)  
 Research Group Translational Bioinformatics  
-Institute for Biostatistics and Informatics in Medicine and Aging Research (IBIMA)  
-Rostock University Medical Center
+Institute for Biostatistics and Informatics in Medicine and Aging Research
+Rostock University Medical Center, Rostock
+
+**Postdoctoral Researcher** (2017-2020) 
+Department Medical Bioinformatics 
+Institute for Biostatistics and Informatics in Medicine and Aging Research
+Rostock University Medical Center, Rostock
 
 **Postdoctoral Researcher** (2014-2017)  
+AG Microbial Interactions and Processes
 Helmholtz Centre for Infection Research (HZI), Braunschweig  
-*Research focus:* Investigating Staphylococcus infections across populations in Northern Europe
-
-**Doctoral Researcher** (2011-2014)  
-Max Planck Institute for Dynamics of Complex Technical Systems  
-Otto von Guericke University
 
 ---
 
 ## Research Interests
 
 * **Microbial Bioinformatics and Microbiome Research** - Host-microbe interactions, bacterial pathogenesis, and population-level infection dynamics, particularly Staphylococcus infections
-* **Single-cell Genomics and Transcriptomics** - Analytical approaches for understanding cellular heterogeneity in aging, inflammation, and senescence
+* **Genomics and Transcriptomics** - Analytical approaches for understanding cellular heterogeneity in aging, inflammation, and senescence
 * **Aging Research and Longevity** - Bioinformatics methods for identifying molecular mechanisms underlying aging and age-related diseases
 * **Cell Differentiation Mechanisms** - Computational modeling of molecular mechanisms governing cell differentiation
-* **Immunology and Host Response** - Analysis of immune cell populations, particularly MAIT cells, in bacterial infections
-* **High-throughput Data Analysis** - Development and application of bioinformatics pipelines for genomic, transcriptomic, and metagenomic data
 
 ---
 
@@ -81,15 +81,13 @@ Otto von Guericke University
 **Universitätsmedizin Rostock**
 
 * Moderne und molekulare Hochdurchsatztechnologien in der medizinischen Grundlagenforschung (Seminar & Praktikum)
-* QB1: Epidemiologie, Med. Biometrie u. Med. Informatik (Vorlesung, Seminar & Übung)
-* Klinische Anwendungen - Methoden der Funktionserfassung - BA MIT (Vorlesung)
+* QB1: Epidemiologie, Med. Biometrie u. Med. Informatik (Vorlesung & Seminar)
+* Klinische Anwendungen: Methoden der Funktionserfassung - BA MIT (Vorlesung)
+* Klinische Anwendungen: Kardiovaskuläres Monitoring und Imaging - BA MIT (Vorlesung)
 
 ---
 
 ## Publications & Metrics
-
-**Citations:** 2,931 (Google Scholar)  
-**Research Areas:** Bioinformatics, Genomics, Microbial Bioinformatics, Microbiome
 
 For my complete and up-to-date publication list, please visit:
 * [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ&view_op=list_works&sortby=pubdate)
@@ -97,6 +95,7 @@ For my complete and up-to-date publication list, please visit:
 
 ---
 
+<!--
 ## Skills & Expertise
 
 ### Computational & Statistical
@@ -123,6 +122,8 @@ For my complete and up-to-date publication list, please visit:
 * Aging research
 * Clinical research methodology
 
+-->
+
 ---
 
 ## Contact Information
@@ -130,7 +131,10 @@ For my complete and up-to-date publication list, please visit:
 **Email:** israel.barrantes{bei}uni-rostock.de  
 **ORCID:** [0000-0002-5252-4485](https://orcid.org/0000-0002-5252-4485)  
 **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ)  
+
+<!--
 **GitHub:** [barrantesisrael](https://github.com/barrantesisrael)
+-->
 
 ---
 
