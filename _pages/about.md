@@ -20,7 +20,7 @@ My research applies computational and statistical methods to address fundamental
 
 ## Current Position
 
-**Junior Research Group Leader**  
+Research Group Translational Bioinformatics (head)
 Institute of Biostatistics and Informatics in Medicine and Ageing Research  
 Universitätsmedizin Rostock  
 Rostock, Germany
@@ -43,11 +43,11 @@ University of Magdeburg & International Max Planck Research School
 ### Current Members
 
 **Dr. Israel Barrantes** - Research Group Leader  
-*Research focus:* Aging, infection research, genomic, microbiomes, drug repositioning, artificial intelligence<br>
+*Research focus:* Bioinformatics, aging, infections, omics, drug repositioning<br>
 Email: israel.barrantes{bei}uni-rostock.de
 
 **Franziska Meiners**  
-*Research focus:* Aging, interventions, microbiomes, drug repositioning, reprogramming<br>
+*Research focus:* Aging, interventions, microbiomes, transcriptomics, drug repositioning, reprogramming<br>
 Email: franziska.meiners{bei}uni-rostock.de
 
 **Asiri Soledad Ortega Matienzo**  
