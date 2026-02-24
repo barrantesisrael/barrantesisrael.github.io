@@ -20,7 +20,7 @@ Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpub
 ### 31328 Moderne und molekulare Hochdurchsatztechnologien in der medizinischen Grundlagenforschung
 
 **Seminar:** Microbiome Analysis [[PDF](https://github.com/barrantesisrael/mbtmicrobiome2023/blob/main/MicrobiomeAnalysisWS2025.pdf)]<br>
-**Praktikum:** Microbiome Analysis [[GitHub]([https://github.com/barrantesisrael/qb1rnaseq](https://github.com/barrantesisrael/mbtmicrobiome2023))]<br>
+**Praktikum:** Microbiome Analysis [[GitHub](https://github.com/barrantesisrael/mbtmicrobiome2023)]<br>
 **Studiengang:** Master Medizinische Biotechnologie (MBT)
 
 Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&navigationPosition=lectures%2Csearch&breadcrumb=searchLectures&topitem=lectures&subitem=search&veranstaltung.veranstid=176175) und [StudIP](https://studip.uni-rostock.de/dispatch.php/course/overview?cid=88492574ee2ddb89f353a3bcf932779f)
