@@ -46,7 +46,7 @@ Email: israel.barrantes{bei}uni-rostock.de
 Email: franziska.meiners{bei}uni-rostock.de
 
 **Asiri Soledad Ortega Matienzo**  
-*Research focus:* Bioinformatics, aging, interventions, microbiomes, meta-analysis, artificial intelligence<br>
+*Research focus:* Bioinformatics, aging, interventions, microbiomes, meta-analysis, artificial intelligence (machine learning)<br>
 Email: asiri.matienzo{bei}uni-rostock.de
 
 ### Alumni
