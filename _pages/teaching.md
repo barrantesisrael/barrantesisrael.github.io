@@ -5,11 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Aktuelle Veranstaltungen
+## Aktuelle Veranstaltungen WS 2025/26
 
 ### 31460 QB1 Epidemiologie, Med. Biometrie u. Med. Informatik
 
-**Inhalt:** Vorlesung & Seminar<br>
+**Vorlesung:**  Mikrobiom Bioinformatik [[PDF](https://studip.uni-rostock.de/sendfile.php?force_download=1&type=0&file_id=1d582186f1ad5dc70bb02ccd95d60980&file_name=Barrantes_Mikrobiom_Bioinformatik_WS202526_v13.pdf)]
+**Seminar:** Genexpressionsanalyse und Drug Repositioning [[GitHub](https://github.com/barrantesisrael/qb1rnaseq)][[Google Colab](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_20250714_V60_Claude_DE04_ibmod.ipynb)][[PDF](https://github.com/barrantesisrael/qb1rnaseq/blob/main/barrantes_genexpressionsanalyse_WS202526_ib09.pdf)]
 **Studiengang:** Humanmedizin
 
 Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&navigationPosition=lectures%2Csearch&breadcrumb=searchLectures&topitem=lectures&subitem=search&veranstaltung.veranstid=176669) und [StudIP](https://studip.uni-rostock.de/dispatch.php/course/overview?cid=87407414d8395500749bb139b54f24e7)
@@ -18,7 +19,8 @@ Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpub
 
 ### 31328 Moderne und molekulare Hochdurchsatztechnologien in der medizinischen Grundlagenforschung
 
-**Inhalt:** Seminar & Praktikum<br>
+**Seminar:** Microbiome Analysis [[PDF](https://github.com/barrantesisrael/mbtmicrobiome2023/blob/main/MicrobiomeAnalysisWS2025.pdf)]
+**Praktikum:** Microbiome Analysis [[GitHub]([https://github.com/barrantesisrael/qb1rnaseq](https://github.com/barrantesisrael/mbtmicrobiome2023))]
 **Studiengang:** Master Medizinische Biotechnologie (MBT)
 
 Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&navigationPosition=lectures%2Csearch&breadcrumb=searchLectures&topitem=lectures&subitem=search&veranstaltung.veranstid=176175) und [StudIP](https://studip.uni-rostock.de/dispatch.php/course/overview?cid=88492574ee2ddb89f353a3bcf932779f)
