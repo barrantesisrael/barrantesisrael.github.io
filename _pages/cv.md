@@ -32,13 +32,7 @@ See: [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=ZV
 
 ## Teaching 
 
-### Current Courses (Winter Semester 2025/26)
-
-**Universitätsmedizin Rostock**
-
-* Moderne und molekulare Hochdurchsatztechnologien in der medizinischen Grundlagenforschung (Seminar & Praktikum)
-* QB1: Epidemiologie, Med. Biometrie u. Med. Informatik (Vorlesung & Seminar)
-* Klinische Anwendungen - Methoden der Funktionserfassung - BA MIT (Vorlesung)
+Aktuelle Veranstaltungen: [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&keep=y&personal.pid=16445)
 
 ---
 
