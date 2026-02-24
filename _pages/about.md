@@ -67,6 +67,6 @@ Rostock, Germany
 
 ## Publications & Teaching
 
-For our latest publications, please visit our [Publications page](/publications/) or the group leader's [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ&view_op=list_works&sortby=pubdate).
+For our latest publications, please visit our [Publications page](/publications/).
 
 For information about our current teaching activities, please see our [Teaching page](/teaching/).
