@@ -37,7 +37,7 @@ Our work bridges experimental biology with computational analysis, developing an
 
 ### Current Members
 
-**Israel Barrantes** (head)
+**Israel Barrantes** (head) <br>
 *Research focus:* Bioinformatics, aging, infections, microbiomes, transcriptomics, drug repositioning<br>
 Email: israel.barrantes{bei}uni-rostock.de
 
