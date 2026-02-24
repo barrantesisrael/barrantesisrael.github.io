@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<!--
+
 ## Israel Barrantes (Walter Israel Barrantes Bustinza)
 
 **Research Group Translational Bioinformatics** (head)  
@@ -17,16 +19,17 @@ Universitätsmedizin Rostock
 Rostock, Germany
 
 ---
+-->
 
 ## Employment, education & qualifications
 
-See [ORCID: 0000-0002-5252-4485](https://orcid.org/0000-0002-5252-4485)
+ORCID: [0000-0002-5252-4485](https://orcid.org/0000-0002-5252-4485)
 
 ---
 
 ## Research
 
-See: [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ&view_op=list_works&sortby=pubdate)
+Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 
