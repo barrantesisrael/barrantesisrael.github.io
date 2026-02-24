@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-We are the Research Group Translational Bioinformatics at the [Institute of Biostatistics and Informatics in Medicine and Ageing Research (IBIMA)](https://ibima.med.uni-rostock.de/) at the [Universitätsmedizin Rostock](https://www.med.uni-rostock.de/), Germany.
+We are the Research Group Translational Bioinformatics at the [Institute of Biostatistics and Informatics in Medicine and Ageing Research (IBIMA)](https://ibima.med.uni-rostock.de/), [Universitätsmedizin Rostock](https://www.med.uni-rostock.de/), Germany.
 
 ## Research Focus
 
 Our work bridges experimental biology with computational analysis, developing and applying bioinformatics pipelines for high-throughput genomic, transcriptomic, microbiome and metagenomic data, especially in the contexts of aging and infection research.
+
+<!--
 
 ### Main Research Areas
 
@@ -22,7 +24,6 @@ Our work bridges experimental biology with computational analysis, developing an
 * Computational drug repositioning
 * Aging Research and Longevity
 
-<!--
 
 * **Cell Differentiation Mechanisms** - We use computational modeling to understand molecular mechanisms governing cell differentiation in protists and higher organisms
 
