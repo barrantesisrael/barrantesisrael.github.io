@@ -31,9 +31,7 @@ Our work bridges experimental biology with computational analysis, developing an
 
 -->
 
-
 ---
-
 
 ## Team Members
 
