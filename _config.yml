@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Israel Barrantes"
+title                    : "Research Group Translational Bioinformatics"
 title_separator          : "-"
-name                     : &name "Dr. Israel Barrantes"
-description              : &description "Junior Research Group Leader in Biostatistics and Medical Informatics"
+name                     : &name "Israel Barrantes"
+description              : &description "UMR-IBIMA Research Group Translational Bioinformatics"
 url                      : https://barrantesisrael.github.io
 baseurl                  : ""
 repository               : "barrantesisrael/barrantesisrael.github.io"
@@ -50,14 +50,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Israel Barrantes"
+  name             : "Israel Barrantes"
   avatar           : "BarrantesIsrael20251128BW.jpeg"
   bio              : "Junior Research Group Leader at the Institute of Biostatistics and Informatics in Medicine and Ageing Research, University Medical Center Rostock"
   location         : "Rostock, Germany"
   employer         : "Universitätsmedizin Rostock"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ"
-  email            : "walterisrael.barrantesbustinza@med.uni-rostock.de"
+  email            : "israel.barrantes{at}uni-rostock.de"
   researchgate     :
   uri              :
   bitbucket        :
@@ -66,13 +66,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "barrantesisrael"
+#  github           : "barrantesisrael"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/israel-barrantes-0b51b53b3"
   orcid            : "https://orcid.org/0000-0002-5252-4485"
   pinterest        :
   soundcloud       :
