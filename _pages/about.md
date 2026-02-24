@@ -12,7 +12,7 @@ We are the Research Group Translational Bioinformatics at the [Institute of Bios
 
 ## Research Focus
 
-Our work bridges experimental biology with computational analysis, developing and applying bioinformatics pipelines for high-throughput genomic, transcriptomic, microbiome and metagenomic data, especially in the contexts of aging and infection research.
+Our work bridges experimental biology with computational analysis, developing and applying bioinformatics methods for high-throughput genomic, transcriptomic, microbiome and metagenomic data, especially in the contexts of aging and infection research.
 
 <!--
 
@@ -59,8 +59,10 @@ Scotland Rural College (SRUC)
 ## Location
 
 Institute of Biostatistics and Informatics in Medicine and Ageing Research  
-Universitätsmedizin Rostock  
-Rostock, Germany
+Universitätsmedizin Rostock
+Ernst-Heydemann-Str. 8
+18057 Rostock
+Germany
 
 ---
 
