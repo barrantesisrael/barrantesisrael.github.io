@@ -31,8 +31,7 @@ author_profile: true
 
 For a complete and up-to-date publication list, please visit:
 
-## Google Scholar
-[View all publications on Google Scholar](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ&view_op=list_works&sortby=pubdate)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 <!--
