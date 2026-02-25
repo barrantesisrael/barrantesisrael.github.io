@@ -19,7 +19,7 @@ author_profile: true
 
 - **Meiners, F.**, Hinz, B., Boeckmann, L., Secci, R., **Sueto, S.,** Kuepfer, L., Fuellen, G. and **Barrantes, I.** (2024) 'Computational identification of natural senotherapeutic compounds that mimic dasatinib based on gene expression data', *Scientific Reports*, 14(1), p. 6286. doi: [10.1038/s41598-024-55870-4](https://doi.org/10.1038/s41598-024-55870-4)
 
-- Berlin, P.<sup>*</sup>, **Barrantes, I.**<sup>*</sup>, Reiner, J., Schröder, E., Vollmar, B., Bull, J., Kreikemeyer, B., Lamprecht, G. and Witte, M. (2023) 'Dysbiosis and reduced small intestinal function are required to induce intestinal insufficiency in mice', *American Journal of Physiology - Gastrointestinal and Liver Physiology*, 324(1), pp. G10-G23. doi: [10.1152/ajpgi.00201.2022](https://doi.org/10.1152/ajpgi.00201.2022)
+- Berlin, P.<sup>#</sup>, **Barrantes, I.**<sup>#</sup>, Reiner, J., Schröder, E., Vollmar, B., Bull, J., Kreikemeyer, B., Lamprecht, G. and Witte, M. (2023) 'Dysbiosis and reduced small intestinal function are required to induce intestinal insufficiency in mice', *American Journal of Physiology - Gastrointestinal and Liver Physiology*, 324(1), pp. G10-G23. doi: [10.1152/ajpgi.00201.2022](https://doi.org/10.1152/ajpgi.00201.2022)
 
 - **Secci, R.**, Hartmann, A., Walter, M., Grabe, H.J., Van der Auwera-Palitschka, S., Kowald, A., Palmer, D., Rimbach, G., Fuellen, G. and **Barrantes, I.** (2023) 'Biomarkers of geroprotection and cardiovascular health: An overview of omics studies and established clinical biomarkers in the context of diet', *Critical Reviews in Food Science and Nutrition*, 63(15), pp. 2426-2446. doi: [10.1080/10408398.2021.1975638](https://doi.org/10.1080/10408398.2021.1975638)
 
