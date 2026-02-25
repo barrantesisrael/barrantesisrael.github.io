@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected and latest publications
+## Latest and selected publications
 
 - Gottschalk, E.C., Chabanovska, O., Vasudevan, P., **Barrantes, I.**, Kreikemeyer, B., Bergmann-Ewert, W., Engelmann, R., Müller-Hilke, B. and Lang, H. (2026) 'Potential biomarkers for early periodontal inflammation: investigating CD5(+) B cells, salivary cytokines and oral microbiome', *Scientific Reports*, 16(1), p. 7192. doi: [10.1038/s41598-026-37044-6](https://doi.org/10.1038/s41598-026-37044-6)
 
