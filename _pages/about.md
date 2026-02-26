@@ -38,7 +38,7 @@ Our work bridges experimental biology with computational analysis, developing an
 ### Current Members
 
 **Israel Barrantes** (head) <br>
-*Research focus:* Bioinformatics, aging, infections, microbiomes, transcriptomics, drug repositioning<br>
+*Research focus:* Bioinformatics, aging, infection research, microbiomes, transcriptomics, drug repositioning<br>
 Email: israel.barrantes{bei}uni-rostock.de
 
 **Franziska Meiners**  
@@ -56,7 +56,7 @@ Scotland Rural College (SRUC)
 
 ---
 
-## Location
+## Address
 
 Institute of Biostatistics and Informatics in Medicine and Ageing Research<br>
 Universitätsmedizin Rostock<br>
