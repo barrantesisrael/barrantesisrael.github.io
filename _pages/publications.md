@@ -17,7 +17,7 @@ author_profile: true
 
 - **Meiners, F.**, Kreikemeyer, B., Newels, P., Zude, I., Walter, M., Hartmann, A., Palmer, D., Fuellen, G. and **Barrantes, I.** (2025) 'Strawberry dietary intervention influences diversity and increases abundances of SCFA-producing bacteria in healthy elderly people', *Microbiology Spectrum*, 13(2), p. e0191324. doi: [10.1128/spectrum.01913-24](https://doi.org/10.1128/spectrum.01913-24)
 
-- **Meiners, F.**, Hinz, B., Boeckmann, L., Secci, R., **Sueto, S.,** Kuepfer, L., Fuellen, G. and **Barrantes, I.** (2024) 'Computational identification of natural senotherapeutic compounds that mimic dasatinib based on gene expression data', *Scientific Reports*, 14(1), p. 6286. doi: [10.1038/s41598-024-55870-4](https://doi.org/10.1038/s41598-024-55870-4)
+- **Meiners, F.**, Hinz, B., Boeckmann, L., **Secci, R.**, **Sueto, S.**, Kuepfer, L., Fuellen, G. and **Barrantes, I.** (2024) 'Computational identification of natural senotherapeutic compounds that mimic dasatinib based on gene expression data', *Scientific Reports*, 14(1), p. 6286. doi: [10.1038/s41598-024-55870-4](https://doi.org/10.1038/s41598-024-55870-4)
 
 - Berlin, P.<sup>#</sup>, **Barrantes, I.**<sup>#</sup>, Reiner, J., Schröder, E., Vollmar, B., Bull, J., Kreikemeyer, B., Lamprecht, G. and Witte, M. (2023) 'Dysbiosis and reduced small intestinal function are required to induce intestinal insufficiency in mice', *American Journal of Physiology - Gastrointestinal and Liver Physiology*, 324(1), pp. G10-G23. doi: [10.1152/ajpgi.00201.2022](https://doi.org/10.1152/ajpgi.00201.2022)
 
