@@ -53,11 +53,11 @@ author:
   name             : "Israel Barrantes"
   avatar           : "BarrantesIsrael20251128BW.jpeg"
   bio              : "Institut für Biostatistik und Informatik in Medizin und Alternsforschung, Universitätsmedizin Rostock"
-  location         : "Rostock, Germany"
+#  location         : "Rostock, Germany"
 #  employer         : "Universitätsmedizin Rostock"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZVjsgKQAAAAJ"
-  email            : "israel.barrantes{at}uni-rostock.de"
+#  email            : "israel.barrantes{at}uni-rostock.de"
   researchgate     :
   uri              :
   bitbucket        :
