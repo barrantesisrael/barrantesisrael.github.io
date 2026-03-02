@@ -29,7 +29,7 @@ Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpub
 
 ### 31470 Klinische Anwendungen - Methoden der Funktionserfassung
 
-**Inhalt:** Vorlesung<br>
+**Inhalt:** Vorlesungen<br>
 **Studiengang:** Bachelor Medizinische Informationstechnik (MIT)
 
 Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&navigationPosition=lectures%2Csearch&breadcrumb=searchLectures&topitem=lectures&subitem=search&veranstaltung.veranstid=176664) und [StudIP](https://studip.uni-rostock.de/dispatch.php/course/overview?cid=fb9c2ca073efe7cae6d4f06029bca335)
