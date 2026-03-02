@@ -27,7 +27,7 @@ Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpub
 
 ---
 
-### 31470 Klinische Anwendungen - Methoden der Funktionserfassung
+### 31470 MIT3 Klinische Anwendungen - Methoden der Funktionserfassung
 
 **Inhalt:** Vorlesungen<br>
 **Studiengang:** Bachelor Medizinische Informationstechnik (MIT)
