@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected publications
 
-- Strey K., **Sueto S.**, Fuellen G., Kreikemeyer B., Patenge N., **Barrantes I.** (2026) 'Computational identification of novel therapeutic candidates for Streptococcus pyogenes and influenza A coinfections through transcriptomic-based drug repositioning', *BMC Microbiol*. 26(1):399. doi: [10.1186/s12866-026-05063-y](https://doi.org/10.1186/s12866-026-05063-y)
+- Strey K.<sup>#</sup>, **Sueto S.**<sup>#</sup>, Fuellen G., Kreikemeyer B., Patenge N., **Barrantes I.** (2026) 'Computational identification of novel therapeutic candidates for Streptococcus pyogenes and influenza A coinfections through transcriptomic-based drug repositioning', *BMC Microbiol*. 26(1):399. doi: [10.1186/s12866-026-05063-y](https://doi.org/10.1186/s12866-026-05063-y)
 
 - Gottschalk, E.C., Chabanovska, O., Vasudevan, P., **Barrantes, I.**, Kreikemeyer, B., Bergmann-Ewert, W., Engelmann, R., Müller-Hilke, B. and Lang, H. (2026) 'Potential biomarkers for early periodontal inflammation: investigating CD5(+) B cells, salivary cytokines and oral microbiome', *Scientific Reports*, 16(1):7192. doi: [10.1038/s41598-026-37044-6](https://doi.org/10.1038/s41598-026-37044-6)
 
