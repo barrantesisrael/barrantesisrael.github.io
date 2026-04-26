@@ -5,6 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Aktuelle Veranstaltungen SS 2026
+
+### 31469 MIT4 Klinische Anwendungen: Kardiovaskuläres Monitoring und Imaging
+
+**Inhalt:** Vorlesungen, Seminar<br>
+**Studiengang:** Bachelor Medizinische Informationstechnik (MIT)
+
+Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&navigationPosition=lectures%2Csearch&breadcrumb=searchLectures&topitem=lectures&subitem=search&veranstaltung.veranstid=182221) und [StudIP](https://studip.uni-rostock.de/dispatch.php/course/overview?cid=b59d9c6bcd8e8a2bec57c6a8ac2ff1f3)
+
+---
+
 ## Aktuelle Veranstaltungen WS 2025/26
 
 ### 31460 QB1 Epidemiologie, Med. Biometrie u. Med. Informatik
@@ -36,4 +47,4 @@ Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpub
 
 ---
 
-Last update: 2026-02-24
+Last update: 2026-04-24
