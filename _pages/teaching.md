@@ -28,6 +28,16 @@ Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpub
 
 ---
 
+### 314601 QB1 Epidemiologie, Med. Biometrie u. Med. Informatik
+
+**Vorlesung:**  Mikrobiom Bioinformatik [[PDF](https://studip.uni-rostock.de/sendfile.php?force_download=1&type=0&file_id=1d582186f1ad5dc70bb02ccd95d60980&file_name=Barrantes_Mikrobiom_Bioinformatik_WS202526_v13.pdf)]<br>
+**Seminar:** Genexpressionsanalyse und Drug Repositioning [[GitHub](https://github.com/barrantesisrael/qb1rnaseq)][[GitLab](https://gitlab.uni-rostock.de/wb283/qb1rnaseq)][[Google Colab](https://colab.research.google.com/github/barrantesisrael/qb1rnaseq/blob/main/QB1_RNAseq_WS2025_20250714_V60_Claude_DE04_ibmod.ipynb)][[PDF](https://github.com/barrantesisrael/qb1rnaseq/blob/main/barrantes_genexpressionsanalyse_WS202526_ib09.pdf)]<br>
+**Studiengang:** Bachelor Medizinische Biotechnologie (MBT)
+
+Kursinformationen im [LSF](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=176663&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&idcol=k_semester.semid&idval=20252&getglobal=semester&htmlBodyOnly=true) und [StudIP](https://studip.uni-rostock.de/dispatch.php/course/overview?cid=3e6621ed3637b790e65fd4890ade9561)
+
+---
+
 ### 31328 Moderne und molekulare Hochdurchsatztechnologien in der medizinischen Grundlagenforschung
 
 **Seminar:** Microbiome Analysis [[PDF](https://github.com/barrantesisrael/mbtmicrobiome2023/blob/main/MicrobiomeAnalysisWS2025.pdf)]<br>
