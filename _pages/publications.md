@@ -7,7 +7,9 @@ author_profile: true
 
 ## Selected publications
 
-- Gottschalk, E.C., Chabanovska, O., Vasudevan, P., **Barrantes, I.**, Kreikemeyer, B., Bergmann-Ewert, W., Engelmann, R., Müller-Hilke, B. and Lang, H. (2026) 'Potential biomarkers for early periodontal inflammation: investigating CD5(+) B cells, salivary cytokines and oral microbiome', *Scientific Reports*, 16(1), p. 7192. doi: [10.1038/s41598-026-37044-6](https://doi.org/10.1038/s41598-026-37044-6)
+- Strey K., **Sueto S.**, Fuellen G., Kreikemeyer B., Patenge N., **Barrantes I.** (2026) 'Computational identification of novel therapeutic candidates for Streptococcus pyogenes and influenza A coinfections through transcriptomic-based drug repositioning', *BMC Microbiol*. 26(1):399. doi: [10.1186/s12866-026-05063-y](https://doi.org/10.1186/s12866-026-05063-y)
+
+- Gottschalk, E.C., Chabanovska, O., Vasudevan, P., **Barrantes, I.**, Kreikemeyer, B., Bergmann-Ewert, W., Engelmann, R., Müller-Hilke, B. and Lang, H. (2026) 'Potential biomarkers for early periodontal inflammation: investigating CD5(+) B cells, salivary cytokines and oral microbiome', *Scientific Reports*, 16(1):7192. doi: [10.1038/s41598-026-37044-6](https://doi.org/10.1038/s41598-026-37044-6)
 
 - Hartmann, C., Haß, C., Knobloch, M., **Barrantes, I.**, Fumagalli, L., Premereur, J., Markert, F., Peters, M., Koromila, G., Hartmann, A., Jäger, K., Abel, J., Mancuso, R., Storch, A., Walter, M., Fuellen, G. and Hermann, A. (2025) 'Prematurely Aged Human Microglia Exhibit Impaired Stress Response and Defective Nucleocytoplasmic Shuttling of ALS Associated FUS', *Aging Cell*, 24(11), p. e70232. doi: [10.1111/acel.70232](https://doi.org/10.1111/acel.70232)
 
@@ -64,4 +66,4 @@ My research focuses on:
 
 ---
 
-Last update: 2026-02-25
+Last update: 2026-04-24
